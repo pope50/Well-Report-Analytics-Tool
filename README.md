@@ -75,4 +75,5 @@ No confidential data is included in this repository. Users are responsible for e
 This project is licensed under the MIT License
 
 ## Dashboard Preview
-<img width="1915" height="865" alt="image" src="https://github.com/user-attachments/assets/e8a013c4-af05-4689-a301-430f607d4801" />
+<img width="1915" height="865" alt="image" src="https://github.com/user-attachments/assets/cf4e053c-e33e-4297-9847-347941a14486" />
+
